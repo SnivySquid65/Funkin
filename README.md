@@ -1,6 +1,6 @@
-<h2>SnivySquid65/FunkinNightly</h2>
+<h2>SnivySquid65/FunkinNightlies</h2>
 
-SnivySquid65/FunkinNightly is a fork of FNF where nightly builds are posted for all platforms, guaranteeing you have the new features, no matter your device.
+SnivySquid65/FunkinNightlies is a fork of FNF where nightly builds are posted for all platforms, guaranteeing you have the new features, no matter your device.
 
 Builds are made on local hardware due to github actions never fulfilling a build.
 
